@@ -10,7 +10,7 @@
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 
-- 🌱 I'm currently learning **Exploring advanced full-stack development, Web3 protocols, and scalable system architecture.**
+- 🌱 I'm currently learning **Advanced full-stack development, Web3 protocols, and scalable system architecture.**
 
 - 💬 Ask me about **Full-stack Development & Web3 Solutions**
 
