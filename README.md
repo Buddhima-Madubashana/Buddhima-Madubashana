@@ -1,3 +1,4 @@
+<p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&random=false&width=800&lines=Hi%F0%9F%91%8B+I+am+Buddhima+Madubashana" alt="Typing SVG" /></a>
 
 ### Full-stack Developer | Web3 Developer
@@ -5,6 +6,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Buddhima-Madubashana&label=Profile%20views&color=0e75b6&style=flat" alt="BuddhimaMadubashana" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Buddhima-Madubashana" alt="Buddhima-Madubashana" /></a> </p>
+
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+
 
 - 🌱 I'm currently learning **Exploring advanced full-stack development, Web3 protocols, and scalable system architecture.**
 
@@ -28,17 +32,12 @@
  </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Buddhima-Madubashana&show_icons=true&locale=en&layout=compact" alt="Buddhima-Madubashana" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Buddhima-Madubashana&show_icons=true&locale=en" alt="Buddhima-Madubashana" /></p>
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Buddhima-Madubashana&theme=highcontrast&layout=compact&langs_count=20&hide_border=true&count_private=true" alt="Top Languages">
-    </td>
+<table align="center">
+  <tr>   
     <td>
       <img src="https://nirzak-streak-stats.vercel.app/?user=Buddhima-Madubashana&theme=dark&hide_border=false" alt="GitHub Streak">
     </td>
   </tr>
 </table>
+
